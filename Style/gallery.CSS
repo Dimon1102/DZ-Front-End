@@ -1,0 +1,11 @@
+.gallery{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    margin: 100px;
+    border-style: double;
+    border-color: brown;
+}
+body{
+    background-color: black;
+}
