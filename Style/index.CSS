@@ -5,6 +5,9 @@
     margin: 150px;
     border-style: double;
     border-color: brown;
+    position: relative;
+    top: 50px;
+    left: 75px;
 }
 
 body{
